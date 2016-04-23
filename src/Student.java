@@ -12,10 +12,10 @@
  */
 public class Student {
 	//学生私有的属性
-	private String stuName=null;
-	private int stuAge=-1;
-	private String stuSex=null;
-	private int stuGrand=-1;    //学生的年级
+	private String stuName;
+	private int stuAge;
+	private String stuSex;
+	private int stuGrand;    //学生的年级
 	
 	//
 	public Student(String name,int age,String Sex,int Grand)

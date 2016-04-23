@@ -1,9 +1,9 @@
 
 public class Teacher {
-	private String teaName=null;
-	private int   teaNo=-1;
-	private int teaAge=-1;
-	private int teaYear=-1;
+	private String teaName;
+	private int   teaNo;
+	private int teaAge;
+	private int teaYear;
 	
 	public Teacher(String name,int no,int age,int year)
 	{
